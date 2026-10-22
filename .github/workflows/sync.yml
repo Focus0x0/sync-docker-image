@@ -18,7 +18,7 @@ on:
       destination_scope:
         description: '目标Scope (格式 scope)'
         required: true
-        default: ''
+        default: 'focus_0x0'
 
 jobs:
   sync:
